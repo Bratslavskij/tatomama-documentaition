@@ -4,14 +4,17 @@
 
 ## <img src="./images/browser-sync.png" width="25" height="25" alt="BrowserSync"> Browser Sync
 
-Документація [BrowserSync](https://browsersync.io)
+Browser Sync — це програма яка автоматично оновляє веб-сторінку, коли її редагують.
+Ось вам посилання документації [BrowserSync](https://browsersync.io).
 
 ### Команда запуску Browser Sync у терміналі bash VSCode:
+
 ```bash
 browser-sync start --proxy "localhost/tatomama" --files "**/*" --no-notify
 ```
 
 #### Результат:
+
 ```bash
 [Browsersync] Proxying: http://localhost
 [Browsersync] Access URLs:
