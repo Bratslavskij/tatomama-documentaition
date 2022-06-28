@@ -4,7 +4,7 @@
 
 ## Панель навігації
 
-[Browser Sync](browser-sync)
+[browser-sync](https://github.com/Bratslavskij/tatomama-documentaition#user-content-browser-sync)
 <img src="./images/browser-sync.png" width="15" height="15" alt="BrowserSync">
 
 ## Browser Sync
