@@ -29,4 +29,4 @@ browser-sync start --proxy "localhost/tatomama" --files "**/*" --no-notify
 [Browsersync] Reloading Browsers...
 ```
 
-Після цього відкриється сайт [ТатоМама](http://localhost:3000/tatomama).
+Після цього відкриється сайт [ТатоМама](http://localhost:3000/tatomama) з Browser Sync.
