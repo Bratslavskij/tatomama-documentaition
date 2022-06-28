@@ -7,6 +7,23 @@
 Документація [BrowserSync](https://browsersync.io)
 
 ### Команда запуску Browser Sync у терміналі bash VSCode:
-```html
+```bash
 browser-sync start --proxy "localhost/tatomama" --files "**/*" --no-notify
 ```
+
+#### Результат:
+```bash
+[Browsersync] Proxying: http://localhost
+[Browsersync] Access URLs:
+ -----------------------------------------------
+       Local: http://localhost:3000/tatomama
+    External: http://192.168.0.103:3000/tatomama
+ -----------------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ -----------------------------------------------
+[Browsersync] Watching files...
+[Browsersync] Reloading Browsers...
+```
+
+Після цього відкриється сайт http://localhost:3000/tatomama.
