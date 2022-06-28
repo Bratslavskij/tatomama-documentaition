@@ -18,7 +18,6 @@ browser-sync start --proxy "localhost/tatomama" --files "**/*" --no-notify
 ```
 
 #### Результат:
-
 ```bash
 [Browsersync] Proxying: http://localhost
 [Browsersync] Access URLs:
