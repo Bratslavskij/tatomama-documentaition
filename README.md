@@ -2,7 +2,11 @@
 
 Авторські права © | 2016 - 2022 | **ТатоМама** | Україна 🇺🇦 | Всі права захищені
 
-## <img src="./images/browser-sync.png" width="25" height="25" alt="BrowserSync"> Browser Sync
+## Панель навігації
+
+[<img src="./images/browser-sync.png" width="15" height="15" alt="BrowserSync"> Browser Sync](-browser-sync)
+
+## Browser Sync
 
 Browser Sync — це програма яка автоматично оновляє веб-сторінку, коли її редагують.
 Ось вам посилання документації [BrowserSync](https://browsersync.io).
