@@ -2,7 +2,7 @@
 
 Авторські права © | 2016 - 2022 | ТатоМама | Україна 🇺🇦 | Всі права захищені
 
-## 👨‍💻 Browser Sync <img src="https://avatars.githubusercontent.com/u/10654171?s=200&amp;v=4" width="50" height="50" alt="BrowserSync">
+## 👨‍💻 <img src="https://avatars.githubusercontent.com/u/10654171?s=200&amp;v=4" width="35" height="35" alt="BrowserSync"> Browser Sync
 
 Документація [BrowserSync](https://browsersync.io)
 
