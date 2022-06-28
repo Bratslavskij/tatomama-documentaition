@@ -4,7 +4,8 @@
 
 ## Панель навігації
 
-[<img src="./images/browser-sync.png" width="15" height="15" alt="BrowserSync"> Browser Sync](-browser-sync)
+[Browser Sync](-browser-sync)
+<img src="./images/browser-sync.png" width="15" height="15" alt="BrowserSync">
 
 ## Browser Sync
 
