@@ -4,9 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/10654171?s=200&amp;v=4" width="100" height="100" alt="BrowserSync">
 
-Команда запуску Browser Sync у VSCode:
-
-### Команда
+### Команда запуску Browser Sync у терміналі bash VSCode:
 ```html
-<img alt="A lazy image" class="lazy" data-src="lazy.jpg" />
+browser-sync start --proxy "localhost/tatomama" --files "**/*" --no-notify
 ```
