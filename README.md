@@ -8,6 +8,8 @@
 
 [Browser Sync](https://github.com/Bratslavskij/tatomama-documentaition/edit/main/README.md#browser-sync-)
 
+[Модулі](https://github.com/Bratslavskij/tatomama-documentaition/blob/main/README.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%96)
+
 ### Модулі:
 
 | Назва                | Версія        | Опис 
